@@ -19,7 +19,7 @@ class AppSW extends Component {
     render () {
       return (
             <div className="App">
-                <h1>AAAAAAA Star Wars Vehicles AAAAA</h1>
+                <h1>AAAAAAA Star Wars Vehicles asd AAAAA</h1>
                 <Router>
                     <ul>
                         <li><Link to="/">Home</Link></li>
